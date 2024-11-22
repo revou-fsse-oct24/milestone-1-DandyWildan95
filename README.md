@@ -99,5 +99,5 @@ Adding animations and final adjustments ensures responsiveness across devices.
 ![alt text](image-6.png)
 ### Deployment
 
-this is a link for my website https://revou-fsse-oct24.github.io/milestone-1-DandyWildan95/
+this is a link for my website https://www.toko-denstembakau.shop/
 this is a link for my deployment https://vercel.com/dandys-projects-fd06cd0a/milestone-1-dandy-wildan95/FUDRFHEULtfmuMzB1RSwqQeqUTrN
