@@ -21,9 +21,7 @@ Welcome to Dens Cigar Store, a sophisticated cigar store located in Rawamangun, 
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/revou-fsse-oct24/milestone-1-DandyWildan95.git
-
-  [Link Text](![alt text](![alt text](image-3.png)))
-   
+ 
  
 Open the Project: Open the project directory in your code editor.
 
@@ -58,7 +56,7 @@ dens-cigar-store/
 │   ├── atlas-cigar-medium.jpg
 │   ├── atlas-cigar-large.jpg
 
-[Link Text](![alt text](image.png))
+![alt text](image.jpg)
 
 ### Modifying Content
 HTML:
@@ -69,13 +67,13 @@ CSS:
 
 Update the style.css file to modify the styling of the webpage.
 
-![alt text](image-4.png)
+
 
 Images:
 
 Add or replace images in the img directory.
 
-![alt text](image-5.png)
+![alt text](image-5.jpg)
 
 Development Stages
 Initial Design
@@ -90,13 +88,13 @@ Adding textual content and images to the HTML structure.
 
 Applying CSS to style the webpage and make it visually appealing.
 
-![alt text](image-7.png)
+![alt text](image-7.jpg)
 
 Final Touches
 
 Adding animations, final adjustments, and ensuring responsiveness across devices.
 
-![alt text](image-6.png)
+![alt text](image-6.jpg)
 ### Deployment
 
 this is link for my website https://revou-fsse-oct24.github.io/milestone-1-DandyWildan95/
