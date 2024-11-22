@@ -73,7 +73,7 @@ Update the style.css file to modify the styling of the webpage.
 
 Images:
 
-Add or replace images in the img directory.
+Add or replace images in the image directory.
 
 ![alt text](image-5.png)
 
@@ -100,3 +100,4 @@ Adding animations and final adjustments ensures responsiveness across devices.
 ### Deployment
 
 this is a link for my website https://revou-fsse-oct24.github.io/milestone-1-DandyWildan95/
+
