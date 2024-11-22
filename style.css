@@ -49,6 +49,7 @@ nav ul li a {
   padding: 0.5em 1em;
   display: block;
   transition: background 0.3s;
+  animation: fadeIn 2s ease-in-out;
 }
 
 nav ul li a:hover {
@@ -58,22 +59,16 @@ nav ul li a:hover {
 main {
   padding: 2em 0;
   background: #fff;
-}
-
-.content {
-  margin-bottom: 2em;
   animation: fadeInUp 1s ease-in-out;
 }
 
 @keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.content {
+  margin-bottom: 2em;
 }
 
 h2 {
@@ -81,10 +76,7 @@ h2 {
   margin-bottom: 1em;
   text-align: center;
   color: #333;
-}
-
-ul {
-  padding-left: 20px;
+  animation: fadeIn 1.5s ease-in-out;
 }
 
 .product-grid {
@@ -99,19 +91,12 @@ ul {
   border: 1px solid #ddd;
   padding: 1em;
   text-align: center;
-  transition: transform 0.3s;
   animation: zoomIn 0.5s ease-in-out;
 }
 
 @keyframes zoomIn {
-  from {
-    opacity: 0;
-    transform: scale(0.8);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
+  from { opacity: 0; transform: scale(0.8); }
+  to { opacity: 1; transform: scale(1); }
 }
 
 .product-item:hover {
@@ -121,11 +106,23 @@ ul {
 .product-item h3 {
   font-size: 1.5em;
   margin-bottom: 0.5em;
+  animation: fadeIn 1.5s ease-in-out;
 }
 
 .product-item img {
   width: 100%;
   height: auto;
+  max-width: 300px; /* Set a max-width for better control */
+  margin: 0 auto; /* Center the image */
+  animation: fadeInUp 1s ease-in-out;
+}
+
+.about img {
+  width: 100%;
+  height: auto;
+  max-width: 600px; /* Set a max-width for the about section image */
+  margin: 0 auto;
+  animation: fadeIn 1.5s ease-in-out;
 }
 
 footer {
@@ -133,6 +130,7 @@ footer {
   color: #ffffff;
   text-align: center;
   padding: 1em 0;
+  animation: fadeIn 1.5s ease-in-out;
 }
 
 /* Responsive Styles */
@@ -165,4 +163,3 @@ footer {
     font-size: 0.875em;
   }
 }
-
