@@ -36,7 +36,7 @@ The project has the following structure:
 dens-cigar-store/
 ├── index.html
 ├── style.css
-├── IMG/
+├── img/
 │   ├── dens_cigarslogo.jpg
 │   ├── dens_cigarslogo_small.jpg
 │   ├── dens_cigarslogo_medium.jpg
@@ -73,7 +73,7 @@ Update the style.css file to modify the styling of the webpage.
 
 Images:
 
-Add or replace images in the image directory.
+Add or replace images in the img directory.
 
 ![alt text](image-5.png)
 
